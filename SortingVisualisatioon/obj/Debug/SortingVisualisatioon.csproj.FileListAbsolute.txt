@@ -1,0 +1,17 @@
+C:\Users\voron\source\repos\SortingVisualisatioon\bin\Debug\SortingVisualisatioon.exe.config
+C:\Users\voron\source\repos\SortingVisualisatioon\bin\Debug\SortingVisualisatioon.exe
+C:\Users\voron\source\repos\SortingVisualisatioon\bin\Debug\SortingVisualisatioon.pdb
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.csproj.AssemblyReference.cache
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.MainForm.resources
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.Properties.Resources.resources
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.csproj.GenerateResource.cache
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.csproj.CoreCompileInputs.cache
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.exe
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.pdb
+C:\Users\voron\source\repos\SortingVisualisatioon\bin\Debug\uk\SortingVisualisatioon.resources.dll
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.MainForm.uk.resources
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\uk\SortingVisualisatioon.resources.dll
+C:\Users\voron\source\repos\SortingVisualisatioon\bin\Debug\ko-KP\SortingVisualisatioon.resources.dll
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.MainForm.ko-KP.resources
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\ko-KP\SortingVisualisatioon.resources.dll
+C:\Users\voron\source\repos\SortingVisualisatioon\obj\Debug\SortingVisualisatioon.InputForm.resources
